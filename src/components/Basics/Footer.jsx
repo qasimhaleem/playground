@@ -9,6 +9,7 @@ const Footer = () => {
                 <Link>linedin</Link>
                 <Link>faceboo</Link>
             </div>
+            copyright all right reserved to MQasim
         </footer>
     )
 }
